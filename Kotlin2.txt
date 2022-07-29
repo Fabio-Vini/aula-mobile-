@@ -1,0 +1,10 @@
+/**
+ Primeira operação com a linguagem
+ */
+val calculoSoma = {
+		num1: Int, num2: Int ->
+    		println(num1 + num2)
+}
+fun main() {
+    calculoSoma(50, 32)
+}
